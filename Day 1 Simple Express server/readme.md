@@ -3,7 +3,7 @@
 link Schema
 Response on
 ➡
-/things/:name/:id 
+/things/:name/:id
 |---------------------|
 PORT | URL_LINK |
 |----------------------|
