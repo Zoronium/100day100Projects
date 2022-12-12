@@ -1,0 +1,23 @@
+{
+  "name": "npx-card",
+  "version": "1.0.0",
+  "description": "",
+  "main": "card.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon card.js"
+  },
+  "keywords": [],
+  "author": "Advait Jain <advaitj@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^7.0.0",
+    "chalk": "^5.1.2",
+    "clear": "^0.1.0",
+    "inquirer": "^9.1.4",
+    "open": "^8.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
